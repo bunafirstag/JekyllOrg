@@ -66,7 +66,7 @@ collections:
 
 # Prose
 prose:
-  siteurl: 'https://damianeoloan.github.io/jekyllorg'
+  siteurl: 'https://bunafirstag.github.io/'
   media: 'images'
   ignore:
     - /_layouts
